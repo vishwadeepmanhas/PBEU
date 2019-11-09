@@ -1,0 +1,1 @@
+start javaw -jar screentoword.jar >Log.txt
